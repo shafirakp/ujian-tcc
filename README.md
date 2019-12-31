@@ -28,6 +28,7 @@
 6. Materi Praktikum 6
   URL : https://github.com/shafirakp/tcc/tree/master/minggu-06
   Pada pertemuan minggu-06 saya mengerjakan yang ada di link berikut disini
+
   https://www.katacoda.com/courses/docker/deploying-first-container
 
   https://www.katacoda.com/courses/docker/create-nginx-static-web-server
